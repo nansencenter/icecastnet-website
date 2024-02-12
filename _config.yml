@@ -22,7 +22,7 @@ paginate_path: "/resources/page:num/"
 navbar-links:
   About SuperIce: "aboutme"
   Team: "team"
-  Resources: "resources"
+  Events: "resources"
   Links: "links"
 
 ################
