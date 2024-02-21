@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Seminar at Brest
-subtitle:  05 December 2022
+title: Seminar at LOPS, Brest
+subtitle:  Brest, France (18.12.23)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/superice-seaice.jpg
@@ -10,6 +10,10 @@ comments: true
 author: Julien Brajard
 ---
 
-## Some comments about the Brest seminar
-- Link to the seminar
-- [Link to slides](../assets/slides_and_posters/Presentation_SuperIce-Introduction-JulienBrajard.pdf)
+## Presenter: Julien Brajard, NERSC
+  
+Title: Super-resolution of sea ice thickness using diffusion models
+  
+[Link to the seminar series]()
+
+[Link to the slides](../assets/slides_and_posters/Presentation_SuperIce-Introduction-JulienBrajard.pdf)
