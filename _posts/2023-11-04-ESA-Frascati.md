@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster at EC-ESA Joint Earth System Initiative
+title: EC-ESA Joint Earth System Initiative
 subtitle:  Frascati, Italy (22.-24.11.23)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
@@ -12,7 +12,7 @@ author: Julien Brajard
 
 ## Presenter: Anton Korosov, NERSC
   
-Title: Super-resolution of sea ice thickness by combining machine learning and physical-based approach
+Title of poster: Super-resolution of sea ice thickness by combining machine learning and physical-based approach
   
 [Link to the conference](https://eo4society.esa.int/event/essi2023/)
 
