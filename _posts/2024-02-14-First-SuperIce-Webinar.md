@@ -5,7 +5,7 @@ subtitle:  14 February 2024
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/superice-seaice.jpg
-tags: [seminar]
+tags: [seminar, SuperIceWebinar]
 comments: true
 author: Henrike Wilborn
 ---
