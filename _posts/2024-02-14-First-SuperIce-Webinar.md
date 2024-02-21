@@ -10,7 +10,7 @@ comments: true
 author: Henrike Wilborn
 ---
 
-## Two speakers: Charlotte Durand (ENPC, France) and Julien Brajard (NERSC, Norway)
+## Two presenters: Charlotte Durand (ENPC, France) and Julien Brajard (NERSC, Norway)
 
 [Link to slides by Charlotte Durand](../assets/slides_and_posters/Presentation_SuperIce-Introduction-JulienBrajard.pdf)
 
