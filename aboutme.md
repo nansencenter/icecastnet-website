@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About SuperIce
-subtitle: Full project name
+subtitle: SuperIce wants to improve satellite observation of the Arctic sea ice thickness through artificial intelligence! 
 ---
 
-
-SuperIce wants to improve satellite observation of the Arctic sea ice thickness through artificial intelligence! 
 
 ## Brief summary
 The resolution of satellite observations of the Arctic sea ice thickness is currently not very high (around 100 km). 
@@ -17,3 +15,13 @@ This in turn will help improve seasonal forecasts of the sea ice and heat fluxes
 ## The two focus questions are: 
 1. Can we improve Arctic sea ice seasonal forecast?
 2. Can we improve climate simulation with a better representation of heat flux through the Arctic sea ice?
+
+
+## Funding
+SuperIce is funded by the European Space Agency FutureEO programme and supervised by Philab. 
+The ESA SuperIce project page is here: https://eo4society.esa.int/projects/superice/
+
+
+## Project management
+The Nansen Environmental and Remote Sensing Center in Bergen, Norway is leading the SuperIce project. 
+https://nersc.no/ 
