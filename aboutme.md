@@ -19,9 +19,9 @@ This in turn will help improve seasonal forecasts of the sea ice and heat fluxes
 
 ## Funding
 SuperIce is funded by the European Space Agency FutureEO programme and supervised by Philab. 
-The ESA SuperIce project page is here: https://eo4society.esa.int/projects/superice/
+[Here](https://eo4society.esa.int/projects/superice/) is the ESA SuperIce project page.
 
 
 ## Project management
-The Nansen Environmental and Remote Sensing Center in Bergen, Norway is leading the SuperIce project. 
-https://nersc.no/ 
+The [Nansen Environmental and Remote Sensing Center in Bergen](https://nersc.no/), Norway is leading the SuperIce project. 
+
