@@ -12,4 +12,5 @@ author: Julien Brajard
 
 [Link to the poster](https://github.com/nansencenter/superice-nersc-v0.github.io/blob/a87c9ce2fb18b7f23bf4c3b6e635a6c5b7aa41a2/Poster_SuperIce-EC-ESA_Joint_Earth_System_Initiative_2023.pdf)
 
+[Link to the poster](https://github.com/nansencenter/superice-nersc/assets/slides_and_posters/Poster_SuperIce-EC-ESA_Joint_Earth_System_Initiative_2023.pdf)
 
