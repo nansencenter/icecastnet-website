@@ -23,5 +23,5 @@ SuperIce is funded by the European Space Agency FutureEO programme and supervise
 
 
 ## Project management
-The [Nansen Environmental and Remote Sensing Center in Bergen](https://nersc.no/), Norway is leading the SuperIce project. 
+The [Nansen Environmental and Remote Sensing Center](https://nersc.no/) in Bergen, Norway is leading the SuperIce project. 
 
