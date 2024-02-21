@@ -4,6 +4,7 @@ title: Poster at EC-ESA Joint Earth System Initiative
 subtitle:  Frascati, Italy (22.-24.11.23)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/superice-seaice.jpg
 tags: [conference]
 comments: true
 author: Julien Brajard
