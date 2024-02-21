@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About SuperIce
+subtitle: Full project name
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+SuperIce wants to improve satellite observation of the Arctic sea ice thickness through artificial intelligence! 
 
-What else do you need?
+## Brief summary
+The resolution of satellite observations of the Arctic sea ice thickness is currently not very high (around 100 km). 
+Having a higher resolution than that is crucial for providing reliable seasonal forecasts and heat flux estimation at the surface. 
+Making use of artificial intelligence techniques and simulations from our sea-ice model neXtSIM will allow us, the SuperIce team, to enhance the spatial resolution of current satellite observations of the Arctic sea ice. 
+This in turn will help improve seasonal forecasts of the sea ice and heat fluxes representation!
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## The two focus questions are: 
+1. Can we improve Arctic sea ice seasonal forecast?
+2. Can we improve climate simulation with a better representation of heat flux through the Arctic sea ice?
