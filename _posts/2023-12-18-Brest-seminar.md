@@ -12,4 +12,4 @@ author: Julien Brajard
 
 ## Some comments about the Brest seminar
 - Link to the seminar
-- Link to slides
+- [Link to slides] (https://github.com/nansencenter/superice-nersc/assets/slides_and_posters/Presentation_SuperIce-Introduction-JulienBrajard.pdf)
