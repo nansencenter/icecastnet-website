@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First SuperIce webinar
-subtitle:  14 February 2024
+subtitle: Bergen, Norway & Online (14.02.24)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/banner.png
