@@ -9,4 +9,5 @@ cover-img: /assets/img/superice-seaice.jpg
 </p>
 
 [Julien Brajard](https://nersc.no/en/ansatt/julien-brajard/)
+
 Project leader, leader of work package package 3, Development of the AI algorithm
