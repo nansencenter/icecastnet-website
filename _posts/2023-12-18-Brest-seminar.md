@@ -14,6 +14,6 @@ author: Julien Brajard
   
 Title of presentation: Super-resolution of sea ice thickness using diffusion models
   
-[Link to the seminar series]()
+[Link to the seminar series](https://www.umr-lops.fr/seminars/api/seminars/invite/550)
 
 [Link to the slides](../assets/slides_and_posters/Presentation_SuperIce-Introduction-JulienBrajard.pdf)
