@@ -12,7 +12,7 @@ author: Julien Brajard
 
 ## Presenter: Julien Brajard, NERSC
   
-Title: Super-resolution of sea ice thickness using diffusion models
+Title of presentation: Super-resolution of sea ice thickness using diffusion models
   
 [Link to the seminar series]()
 
