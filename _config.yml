@@ -20,7 +20,6 @@ author: NERSC
 ###############################################
 paginate_path: "/resources/page:num/"
 navbar-links:
-  About SuperIce: "aboutme"
   Team: "team"
   Events: "resources"
 
