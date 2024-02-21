@@ -10,4 +10,16 @@ cover-img: /assets/img/superice-seaice.jpg
 
 [Julien Brajard](https://nersc.no/en/ansatt/julien-brajard/)
 
-Project leader, leader of work package package 3, Development of the AI algorithm
+Project leader, leader of work package 3, Development of the AI algorithm
+
+
+
+<p align="center">
+<img src="https://nersc.no/wp-content/uploads/2023/09/RichardDavy.jpg" alt="Richard Davy"  width="200"/>
+</p>
+
+[Richard Davy](https://nersc.no/en/ansatt/richard-davy/)
+
+Leader of worck package 1, Definition of Earth Observation use cases
+
+
