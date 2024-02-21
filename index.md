@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About SuperIce
+title: SuperIce
 subtitle: SuperIce wants to improve satellite observation of the Arctic sea ice thickness through artificial intelligence! 
 cover-img: /assets/img/superice-seaice.jpg
 ---
