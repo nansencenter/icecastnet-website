@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at Machine Learning seminar series at the University of Bergen
+title: Machine Learning seminar series at the University of Bergen
 subtitle:  Bergen, Norway (06.12.23)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
@@ -12,7 +12,7 @@ author: Henrike Wilborn
 
 ## Presenter: Julien Brajard, NERSC
   
-Title: Super-resolution of sea ice thickness using diffusion models
+Title of presentation: Super-resolution of sea ice thickness using diffusion models
   
 [Link to the seminar series](https://www.uib.no/en/rg/ml/156217/machine-learning-seminar-series)
 
