@@ -10,11 +10,11 @@ comments: true
 author: Julien Brajard
 ---
 
-- Presenter: Anton Korosov, NERSC
+## Presenter: Anton Korosov, NERSC
   
-- Title: SUper-resolution of sea ice thickness by combining machine learning and physical-based approach
+Title: Super-resolution of sea ice thickness by combining machine learning and physical-based approach
   
-- Link to the conference
+[Link to the conference](https://eo4society.esa.int/event/essi2023/)
 
-- [Link to the poster](../assets/slides_and_posters/Poster_SuperIce-EC-ESA_Joint_Earth_System_Initiative_2023.pdf)
+[Link to the poster](../assets/slides_and_posters/Poster_SuperIce-EC-ESA_Joint_Earth_System_Initiative_2023.pdf)
 
