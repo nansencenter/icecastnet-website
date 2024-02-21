@@ -4,7 +4,7 @@ title: First SuperIce webinar
 subtitle:  14 February 2024
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/superice-seaice.jpg
 tags: [seminar]
 comments: true
 author: Julien Brajard
