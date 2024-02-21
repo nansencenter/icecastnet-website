@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seminar at LOPS, Brest
-subtitle:  Brest, France (18.12.23)
+subtitle: Brest, France (18.12.23)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/superice-seaice.jpg
