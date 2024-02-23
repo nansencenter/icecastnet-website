@@ -51,3 +51,15 @@ cover-img: /assets/img/superice-seaice.jpg
 [Catherine Downy](https://nersc.no/en/ansatt/cat-downy/): Contributes to outreach and project management (Photo: The Nansen Center)
 
 
+<p align="left">
+<img src="https://nersc.no/wp-content/uploads/2023/09/FabioMangini.jpg" alt="Fabio Mangini"  width="200"/>
+</p>
+
+[Fabio Mangini](https://nersc.no/en/ansatt/fabio-mangini/) (Photo: The Nansen Center)
+
+
+<p align="left">
+<img src="https://nersc.no/wp-content/uploads/2023/09/AdrienPerrin.jpg" alt="Adrien Perrin"  width="200"/>
+</p>
+
+[Adrien Perrin](https://nersc.no/en/ansatt/adrien-perrin/) (Photo: The Nansen Center)
