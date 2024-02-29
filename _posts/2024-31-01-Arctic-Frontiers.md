@@ -12,4 +12,4 @@ author: Julien Brajard
 
 Laurent Bertino presented the SuperIce project at the [Arctic Frontiers meeting](https://arcticfrontiers.com/)
 
-[Link to the slides](../assets/slides_and_posters/Arctic-frontiers.pptx)
+[Link to the slides](https://nerscno-my.sharepoint.com/:p:/g/personal/julien_brajard_nersc_no/ETInBdWbrypCnllvqaSE-4MB_DUvtXoYT0VhjTJO5FtaqA?e=5xJjC5)
