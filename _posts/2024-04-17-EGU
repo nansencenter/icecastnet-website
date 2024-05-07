@@ -1,1 +1,16 @@
+---
+layout: post
+title: EGU conference
+subtitle: Vienna, Austria (14-19.04.24)
+gh-repo: nansencenter/superice-nersc
+gh-badge: [star, fork, follow]
+cover-img: /assets/img/EGUbanner.jpeg
+tags: [seminar, SuperIceWebinar]
+comments: true
+author: Julien Brajard
+---
 
+Presentation at the session CR5.6
+[https://meetingorganizer.copernicus.org/EGU24/EGU24-3826.html](https://meetingorganizer.copernicus.org/EGU24/EGU24-3826.html)
+
+[Link to the slides](../assets/slides_and_posters/PICO_superice_2-Belgrade.pdf)
