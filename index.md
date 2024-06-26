@@ -19,7 +19,7 @@ This in turn will help improve seasonal forecasts of the sea ice and heat fluxes
 
 
 ## Funding
-SuperIce is funded by the European Space Agency FutureEO programme and supervised by Philab. 
+SuperIce is funded by the European Space Agency FutureEO programme and supervised by Φ-lab. 
 [Here](https://eo4society.esa.int/projects/superice/) is the ESA SuperIce project page.
 
 
