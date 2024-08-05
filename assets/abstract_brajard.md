@@ -25,3 +25,5 @@ accurate and realistic high-resolution sea ice thickness fields. Accuracy is dem
 while realism is assessed by visual inspection and by computing the power density spectra. 
 For both criteria, accuracy, and realism, our simulator outperforms a linear interpolation of the low-resolution field, which is used as a baseline. 
 We will also demonstrate the impact of the new high-resolution sea ice thickness product on climate simulation and prediction.
+
+[back to the Workshop page](workshop.md)
