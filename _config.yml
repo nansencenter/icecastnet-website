@@ -20,6 +20,7 @@ author: NERSC
 ###############################################
 paginate_path: "/resources/page:num/"
 navbar-links:
+  Workshop: "workshop"
   Team: "team"
   Events: "resources"
 
