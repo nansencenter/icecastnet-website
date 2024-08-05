@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 ---
 
 ## Super-resolution of sea ice thickness using diffusion models
