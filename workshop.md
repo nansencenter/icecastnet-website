@@ -17,7 +17,7 @@ Here is the provisional list of speakers for the SuperIce workshop.
 | Anton KOROSOV | NERSC | TBD |
 | Yiguo WANG | NERSC | TBD |
 | Richard DAVY | NERSC | TBD |
-| Matilde BRANDT/Tore WULF | DMI | TBD |
+| Matilde BRANDT KREINER/Tore WULF | DMI | TBD |
 | Alberto CARRASSI| Univ. Bologna | TBD |
 | Johannes LOHSE| UiT | TBD |
 | Daniela FLOCCO| Univ. Napoli | TBD |
