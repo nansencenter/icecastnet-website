@@ -13,7 +13,7 @@ Here is the provisionnal list of speaker for the SuperIce workshop
 
 | Name          |    Institution |                                Title |
 | ------------- | -------------- | ---------- |
-| Julien BRAJARD | NERSC | SuperResolution of sea ice thickness using diffusion models |
+| Julien BRAJARD | NERSC | [Super-resolution of sea ice thickness using diffusion models](assets/abstract_brajard.md) |
 | Anton KOROSOV | NERSC | TBD |
 | Yiguo WANG | NERSC | TBD |
 | Richard DAVY | NERSC | TBD |
