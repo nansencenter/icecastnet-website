@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Super-resolution of sea ice thickness using diffusion models
-subtitle: Julien Brajard, Anton Korosov, Richard Davy, Fabio Mangini, Adrien Perrin, Yiguo Wang
 ---
-<p align="left">
-<img src="https://nersc.no/wp-content/uploads/2023/09/JulienBrajard-1024x1024.jpg" alt="Julien Brajard"  width="200"/>
-</p>
 
+## Super-resolution of sea ice thickness using diffusion models
+### *Julien Brajard*, Anton Korosov, Richard Davy, Fabio Mangini, Adrien Perrin, Yiguo Wang
+
+<p align="left">
+<img src="https://nersc.no/wp-content/uploads/2023/09/JulienBrajard-1024x1024.jpg" alt="Julien Brajard"  width="100"/>
+</p>
 This work presents a simulator of high-resolution sea ice thickness in the Arctic based on diffusion models, which is a type of artificial intelligence (AI) generative model. 
 Diffusion models have already shown impressive skill in generating realistic high-resolution images (e.g., DALL-E, Midjourney, Stable Diffusion).
 
