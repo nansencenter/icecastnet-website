@@ -9,7 +9,7 @@ subtitle: Online and in person in Frascati - 04 November 2024 from 13:00-18:00 C
 The objective is to gather a community to discuss SuperIce results and more broadly to draw a picture and perspective on the use of AI in the sea ice.
 
 ## Program of the workshop
-Here is the provisionnal list of speaker for the SuperIce workshop
+Here is the provisional list of speakers for the SuperIce workshop.
 
 | Name          |    Institution |                                Title |
 | ------------- | -------------- | ---------- |
