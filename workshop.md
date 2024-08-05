@@ -10,6 +10,7 @@ The objective is to gather a community to discuss SuperIce results and more broa
 
 ## Program of the workshop
 Here is the provisionnal list of speaker for the SuperIce workshop
+
 | Name          |    Institution |                                Title |
 | ------------- | -------------- | ---------- |
 | Julien BRAJARD | NERSC | SuperResolution of sea ice thickness using diffusion models |
