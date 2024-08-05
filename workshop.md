@@ -15,10 +15,10 @@ Here is the provisionnal list of speaker for the SuperIce workshop
 | ------------- | -------------- | ---------- |
 | Julien BRAJARD | NERSC | SuperResolution of sea ice thickness using diffusion models |
 | Anton KOROSOV | NERSC | TBD |
-| Yiguo WANT | NERSC | TBD |
+| Yiguo WANG | NERSC | TBD |
 | Richard DAVY | NERSC | TBD |
 | Matilde BRANDT/Tore WULF | DMI | TBD |
-| ALberto CARRASSI| Univ. Bologna | TBD |
+| Alberto CARRASSI| Univ. Bologna | TBD |
 | Johannes LOHSE| UiT | TBD |
 | Daniela FLOCCO| Univ. Napoli | TBD |
 | Are KVANUM| Met. Norway | TBD |
