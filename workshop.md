@@ -17,8 +17,8 @@ Here is the provisional list of speakers for the SuperIce workshop.
 | Anton KOROSOV | NERSC | TBD |
 | Yiguo WANG | NERSC | TBD |
 | Richard DAVY | NERSC | TBD |
-| Matilde BRANDT KREINER/Tore WULF | DMI | TBD |
-| Alberto CARRASSI| Univ. Bologna | TBD |
+| Matilde BRANDT KREINER/Tore WULF | DMI | [Arctic sea Ice observations from satellite SAR and PMW data using deep learning](assets/abstract_brandt-kreiner_wulf.md) |
+| Alberto CARRASSI| Univ. Bologna | Using machine learning, data assimilation and their combination to improve a new generation of sea ice models |
 | Johannes LOHSE| UiT | TBD |
 | Daniela FLOCCO| Univ. Napoli | TBD |
 | Are KVANUM| Met. Norway | TBD |
