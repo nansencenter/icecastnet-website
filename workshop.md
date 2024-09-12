@@ -26,8 +26,8 @@ Here is the provisional list of speakers for the SuperIce workshop.
 | Matilde BRANDT KREINER/Tore WULF | DMI | [Arctic sea Ice observations from satellite SAR and PMW data using deep learning](assets/abstract_brandt-kreiner_wulf.md) |
 | Alberto CARRASSI| Univ. Bologna | Using machine learning, data assimilation and their combination to improve a new generation of sea ice models |
 | Johannes LOHSE| UiT | TBD |
-| Daniela FLOCCO| Univ. Napoli | TBD |
-| Are KVANUM| Met. Norway | TBD |
+| Daniela FLOCCO| Univ. Napoli | A double speed road: melt pond modelling and observations|
+| Are KVANUM| Met. Norway | [Regional Sea Ice predictions in northern Norway, Svalbard and the Barents Sea using Deep Learning](assets/abstract_kvanum.md) |
 
 
 ## Funding
