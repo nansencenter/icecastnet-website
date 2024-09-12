@@ -5,9 +5,6 @@ layout: minimal
 ## Regional Sea Ice predictions in northern Norway, Svalbard and the Barents Sea using Deep Learning
 ### *Are Kvanum*
 
-<p align="left">
-<img src="https://nersc.no/wp-content/uploads/2023/09/JulienBrajard-1024x1024.jpg" alt="Are Kvanum"  width="100"/>
-</p>
 The Norwegian Meteorological Institute develops short range sea ice information with two goals. 
 Firstly, short range sea ice products provide valuable information for Arctic navigators. 
 Secondly, sea ice is essential to force numerical weather prediction systems at high latitudes. 
