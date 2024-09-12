@@ -3,7 +3,7 @@ layout: minimal
 ---
 
 ## Regional Sea Ice predictions in northern Norway, Svalbard and the Barents Sea using Deep Learning
-### *Julien Brajard*, Anton Korosov, Richard Davy, Fabio Mangini, Adrien Perrin, Yiguo Wang
+### *Are Kvanum*
 
 <p align="left">
 <img src="https://nersc.no/wp-content/uploads/2023/09/JulienBrajard-1024x1024.jpg" alt="Are Kvanum"  width="100"/>
