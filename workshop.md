@@ -28,6 +28,7 @@ Here is the provisional list of speakers for the SuperIce workshop.
 | Johannes LOHSE| UiT | TBD |
 | Daniela FLOCCO| Univ. Napoli | [A double speed road: melt pond modelling and observations](assets/abstract_flocco.md)|
 | Are KVANUM| Met. Norway | [Regional Sea Ice predictions in northern Norway, Svalbard and the Barents Sea using Deep Learning](assets/abstract_kvanum.md) |
+| Tobias FINN| CEREA | TBD |
 
 
 ## Funding
