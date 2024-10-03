@@ -25,7 +25,7 @@ Here is the provisional list of speakers for the SuperIce workshop.
 | Richard DAVY | NERSC | [How do unresolved variations in sea ice thickness alter the surface energy balance in the Arctic in climate models](assets/abstract_davy.md) |
 | Matilde BRANDT KREINER/Tore WULF | DMI | [Arctic sea Ice observations from satellite SAR and PMW data using deep learning](assets/abstract_brandt-kreiner_wulf.md) |
 | Alberto CARRASSI| Univ. Bologna | Using machine learning, data assimilation and their combination to improve a new generation of sea ice models |
-| Johannes LOHSE| UiT | TBD |
+| Johannes LOHSE| UiT | [Sea Ice Mapping from SAR: An overview of methods and approaches developed during 8 years of CIRFA](assets/abstract_lohse.md) |
 | Daniela FLOCCO| Univ. Napoli | [A double speed road: melt pond modelling and observations](assets/abstract_flocco.md)|
 | Are KVANUM| Met. Norway | [Regional Sea Ice predictions in northern Norway, Svalbard and the Barents Sea using Deep Learning](assets/abstract_kvanum.md) |
 | Tobias FINN| CEREA | TBD |
