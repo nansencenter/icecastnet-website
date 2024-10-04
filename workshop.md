@@ -20,7 +20,7 @@ Here is the provisional list of speakers for the SuperIce workshop.
 | Name          |    Institution |                                Title |
 | ------------- | -------------- | ---------- |
 | Julien BRAJARD | NERSC | [Super-resolution of sea ice thickness using diffusion models](assets/abstract_brajard.md) |
-| Anton KOROSOV | NERSC | Challenges with deriving sea ice roughness from SAR imagery using deep learning |
+| Anton KOROSOV | NERSC | [Challenges with deriving sea ice roughness from SAR imagery using deep learning](assets/abstract_korosov.md) |
 | Yiguo WANG | NERSC | [Impact of super resolution SIT data for seasonal sea ice predictions](assets/abstract_wang.md) |
 | Richard DAVY | NERSC | [How do unresolved variations in sea ice thickness alter the surface energy balance in the Arctic in climate models](assets/abstract_davy.md) |
 | Matilde BRANDT KREINER/Tore WULF | DMI | [Arctic sea Ice observations from satellite SAR and PMW data using deep learning](assets/abstract_brandt-kreiner_wulf.md) |
