@@ -3,7 +3,7 @@ layout: minimal
 ---
 
 ## Arctic sea Ice observations from satellite SAR and PMW data using deep learning
-### *Tore Wulf*, Jørgen Buus-Hinkler, Mads Hvid Ribergaard, Till Soya Rasmussen, Suman Singha and *Matilde Brandt Kreiner*, Danish Meteorological Institute (DMI)
+### Tore Wulf, Jørgen Buus-Hinkler, Mads Hvid Ribergaard, Till Soya Rasmussen, Suman Singha and *Matilde Brandt Kreiner*, Danish Meteorological Institute (DMI)
 
 The Arctic’s unprecedented transformation due to anthropogenic warming necessitates close monitoring of sea ice to understand and address climate change impacts. 
 As the sea ice retreats and becomes thinner, increased human activity in the region emphasizes the urgent need for detailed, near real-time sea ice information as well as improved sea ice forecasts for maritime safety and planning. 
