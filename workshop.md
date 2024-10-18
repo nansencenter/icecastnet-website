@@ -33,6 +33,6 @@ Here is the provisional list of speakers for the SuperIce workshop.
 
 ## Funding
 SuperIce is a project lead by the [Nansen Environmental and Remote Sensing Center](https://nersc.no/).
-SuperIce is funded by the European Space Agency FutureEO programme and supervised by Philab. 
+SuperIce is funded by the European Space Agency FutureEO programme and supervised by [Φ-lab](https://philab.esa.int/). 
 [Here](https://eo4society.esa.int/projects/superice/) is the ESA SuperIce project page.
 For any question regarding the workshop please contact <julien.brajard@nersc.no> and <henrike.wilborn@nersc.no>
