@@ -14,7 +14,6 @@ subtitle: Online and in person in Frascati - 04 November 2024 from 13:30-18:30 C
 ## Objective of the workshop
 The objective is to gather a community to discuss SuperIce results and more broadly to draw a picture and perspective on the use of AI in the sea ice.
 
-## Program
 [![Program](assets/superice_program.png)](https://nansencenter.github.io/superice-nersc/assets/superice_program.pdf)
 
 ## Abstracts
