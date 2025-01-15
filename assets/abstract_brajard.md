@@ -26,4 +26,6 @@ while realism is assessed by visual inspection and by computing the power densit
 For both criteria, accuracy, and realism, our simulator outperforms a linear interpolation of the low-resolution field, which is used as a baseline. 
 We will also demonstrate the impact of the new high-resolution sea ice thickness product on climate simulation and prediction.
 
+[Slides by Julien Brajard](../assets/slides_and_posters/superice-brajard-workshop.pdf)
+
 [back to the Workshop page](https://nansencenter.github.io/superice-nersc/workshop/)
