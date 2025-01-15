@@ -3,13 +3,6 @@ layout: page
 title: Final workshop
 subtitle: Online and in person in Frascati - 04 November 2024 from 13:30-18:30 CET (note the changed time!)
 ---
-<div align="center">
-  <a href="https://events.teams.microsoft.com/event/6eeb16e4-0b37-4a3e-8b9c-304bc06d2181@38400994-4c9c-4239-91ce-227c2f3ff292/registration" target="_blank">
-    <button style="background-color:#008CBA; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border:none; border-radius:5px; cursor:pointer;">
-      Online registration
-    </button>
-  </a>
-</div>
 
 ## Objective of the workshop
 The objective is to gather a community to discuss SuperIce results and more broadly to draw a picture and perspective on the use of AI in the sea ice.
@@ -19,7 +12,7 @@ The objective is to gather a community to discuss SuperIce results and more broa
 ## Abstracts
 Here is the  list of speakers and their abstracts for the SuperIce workshop.
 
-| Name          |    Institution |                                Title |
+| Name          |    Institution |                                Title and presentation slides |
 | ------------- | -------------- | ---------- |
 | Julien BRAJARD | NERSC | [Super-resolution of sea ice thickness using diffusion models](assets/abstract_brajard.md) |
 | Yiguo WANG | NERSC | [Impact of super resolution SIT data for seasonal sea ice predictions](assets/abstract_wang.md) |
