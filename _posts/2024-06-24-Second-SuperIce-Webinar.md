@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 cover-img: /assets/img/banner.png
 tags: [seminar, SuperIceWebinar]
 comments: true
-author: Henrike Wilborn
+author: Julien Brajard
 ---
 
 ## Two presenters: William Gregory (Princeton University, USA) and Nicholas Williams (NERSC, Norway)
