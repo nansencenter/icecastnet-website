@@ -4,7 +4,7 @@ title: IICWG workshop
 subtitle: Frascati, Italy (05-07.11.24)
 gh-repo: nansencenter/superice-nersc
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/superice-seaice.jpeg
+cover-img: /assets/img/banner.jpeg
 tags: [seminar]
 comments: true
 author: Yiguo Wang
