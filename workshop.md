@@ -9,8 +9,8 @@ The objective is to gather a community to discuss SuperIce results and more broa
 
 [![Program](assets/superice_program.png)](https://nansencenter.github.io/superice-nersc/assets/superice_program.pdf)
 
-## Abstracts
-Here is the  list of speakers and their abstracts for the SuperIce workshop.
+## Abstracts and slides
+Here is the  list of speakers and their abstracts and slides for the SuperIce workshop.
 
 | Name          |    Institution |                                Title and presentation slides |
 | ------------- | -------------- | ---------- |
