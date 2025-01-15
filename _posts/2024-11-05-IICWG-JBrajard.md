@@ -14,3 +14,8 @@ Presentation by Julien Brajard (NERSC) at the
 [IICWG workshop](https://www.igsoc.org/event/12th-international-workshop-on-sea-ice-modelling-assimilation-observations-predictions-and-verification-aka-iicwg-da-12)
  
 [Link to the slides](../assets/slides_and_posters/superice-brajard-iicwg.pdf)
+
+
+Poster presentation by Yiguo Wang (NERSC)
+ 
+[Link to the poster](../assets/slides_and_posters/Poster-YWang.Nov2024.pdf)
