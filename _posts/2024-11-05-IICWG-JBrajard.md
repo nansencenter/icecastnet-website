@@ -7,10 +7,10 @@ gh-badge: [star, fork, follow]
 cover-img: /assets/img/banner.png
 tags: [seminar]
 comments: true
-author: Julien Brajard
+author: Henrike Wilborn
 ---
 
-Presentation at the
+Presentation by Julien Brajard (NERSC) at the
 [IICWG workshop](https://www.igsoc.org/event/12th-international-workshop-on-sea-ice-modelling-assimilation-observations-predictions-and-verification-aka-iicwg-da-12)
  
 [Link to the slides](../assets/slides_and_posters/superice-brajard-iicwg.pdf)
