@@ -15,4 +15,6 @@ We assess the performance of this approach by conducting retrospective ensemble 
 The experiment is initialized in March and run for up to 13 months. 
 The prediction will be validated against observations and compared to the standard version of prediction using coarse-resolution sea ice data.
 
+[Slides by Yiguo Wang](../assets/slides_and_posters/SuperICE-WP4_Yiguo_Wang.pdf)
+
 [back to the Workshop page](https://nansencenter.github.io/superice-nersc/workshop/)
