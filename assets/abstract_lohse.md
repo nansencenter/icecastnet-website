@@ -13,4 +13,6 @@ The methods include both traditional algorithms, such as statistical classifiers
 I will briefly present the basic ideas and concepts of each method, outline how the different approaches can be combined to obtain better or more useful results, and cover the advantages as well as remaining challenges of each algorithm to hopefully help direct future research in the upcoming years. 
 Finally, I will show an application example that uses one of the algorithms in near-real-time operational support for an Arctic expedition, pointing out advantages and drawbacks in comparison to operational ice charts.
 
+[Slides by Johannes Lohse](../assets/slides_and_posters/SuperIce_workshop_2024_JLohse.pdf)
+
 [back to the Workshop page](https://nansencenter.github.io/superice-nersc/workshop/)
