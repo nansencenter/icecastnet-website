@@ -14,4 +14,6 @@ Additionally, we highlight the importance of supplying numerical weather predict
 Therefore, we are evaluating the added value of using data-driven sea ice forecasting for tactical navigation in the Arctic, as well as a forcing in the numerical weather prediction system developed at the Norwegian Meteorological Institute for northern Norway, Svalbard and the Barents Sea. 
 We expand upon previous work which have established that Arctic short-range weather forecasts are particularly sensitive to the sea ice cover by demonstrating the potential synergies and positive benefits combining physical weather forecasts with up to date deep learning sea ice forecasts.
 
+[Slides by Are Kvanum](../assets/slides_and_posters/SuperIce20241104-Presentation-Kvanum.pdf)
+
 [back to the Workshop page](https://nansencenter.github.io/superice-nersc/workshop/)
