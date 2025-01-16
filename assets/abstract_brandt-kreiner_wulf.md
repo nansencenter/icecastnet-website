@@ -22,4 +22,6 @@ Also for the November release, we will provide daily pan-Arctic reprocessed prod
 
 We will present results for the impact of assimilation DMI-ASIP level-2 SAR-based sea ice concentration, and OSI SAF level-2 PMW-based sea ice concentration, in the DMI HYCOM-CICE coupled ocean-sea-ice forecasting system for the pan-Arctic region.
 
+[Slides by Matilde Brandt Kreiner](../assets/slides_and_posters/DMI-ASIP_SuperIceWS_04-11-2024.pdf)
+
 [back to the Workshop page](https://nansencenter.github.io/superice-nersc/workshop/)
