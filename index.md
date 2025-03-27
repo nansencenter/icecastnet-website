@@ -16,7 +16,8 @@ The IceCastNet project will provide high-resolution sea ice forecasts at a resol
 
 ## Funding
 This work is carried out as part of the Copernicus Marine Service Icecastnet project. Copernicus Marine Service is implemented by Mercator Ocean in the framework of a delegation agreement with the European Union.
-[Here]([https://eo4society.esa.int/projects/superice/](https://marine.copernicus.eu/about/research-development-projects/2022-2024/icecastnet)) is the Copernicus Marine Icecastnet project page.
+
+[Here](https://marine.copernicus.eu/about/research-development-projects/2022-2024/icecastnet) is the Copernicus Marine Icecastnet project page.
 
 
 ## Project management
