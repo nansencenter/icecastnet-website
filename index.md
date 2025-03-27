@@ -1,26 +1,22 @@
 ---
 layout: page
-title: SuperIce
-subtitle: SuperIce wants to improve satellite observation of the Arctic sea ice thickness through artificial intelligence! 
-cover-img: /assets/img/superice-seaice.jpg
+title: IceCastNet
+subtitle: The first high-resolution data-driven model of the Arctic sea ice
+cover-img: /assets/img/IceCastNet_illustration.jpg
 ---
 
 
-## Brief summary
-The resolution of satellite observations of the Arctic sea ice thickness is currently not very high (around 100 km). 
-Having a higher resolution than that is crucial for providing reliable seasonal forecasts and heat flux estimation at the surface. 
-Making use of artificial intelligence techniques and simulations from our sea-ice model neXtSIM will allow us, the SuperIce team, to enhance the spatial resolution of current satellite observations of the Arctic sea ice. 
-This in turn will help improve seasonal forecasts of the sea ice and heat fluxes representation!
+## Context
+Near-real-time accurate Arctic sea ice forecasts of up to 10 days are crucial for many operators in the Arctic. Operational forecasts (e.g. TOPAZ) are based on the integration of observations and the use of a physical-based model to simulate the future evolution of sea ice. Those models contain biases and are expensive to run, limiting the accuracy and the resolution of the delivered product.
 
 
-## The two focus questions are: 
-1. Can we improve Arctic sea ice seasonal forecast?
-2. Can we improve climate simulation with a better representation of heat flux through the Arctic sea ice?
+## Objective of Icecastnet
+The IceCastNet project will provide high-resolution sea ice forecasts at a resolution of 1km for a lead time of up to 10 days in the Arctic. Our forecasting system will be based on artificial intelligence techniques and thus will run quickly with low-resource usage enabling the production of an ensemble of forecasts. Our system will use only near-real-time observational products in the production phase. Our approach will constitute the first pan-Arctic sea-ice AI-based short-term forecast in an operational context.
 
 
 ## Funding
-SuperIce is funded by the European Space Agency FutureEO programme and supervised by Φ-lab. 
-[Here](https://eo4society.esa.int/projects/superice/) is the ESA SuperIce project page.
+This work is carried out as part of the Copernicus Marine Service Icecastnet project. Copernicus Marine Service is implemented by Mercator Ocean in the framework of a delegation agreement with the European Union.
+[Here]([https://eo4society.esa.int/projects/superice/](https://marine.copernicus.eu/about/research-development-projects/2022-2024/icecastnet)) is the Copernicus Marine Icecastnet project page.
 
 
 ## Project management
