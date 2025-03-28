@@ -21,4 +21,4 @@ This work is carried out as part of the Copernicus Marine Service Icecastnet pro
 
 
 ## Project management
-The [Nansen Environmental and Remote Sensing Center](https://nersc.no/) in Bergen, Norway is leading the SuperIce project in collaboration with [Net Norway](https://www.met.no/en)
+The [Nansen Environmental and Remote Sensing Center](https://nersc.no/) in Bergen, Norway is leading the SuperIce project in collaboration with [Met Norway](https://www.met.no/en)
