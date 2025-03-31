@@ -17,7 +17,7 @@ cover-img: /assets/img/IceCastNet_illustration.jpg
 [Léo Edel](https://nersc.no/en/ansatt/leo-edel/)  (NERSC) : Data, AI development (Photo: The Nansen Center)
 
 <p align="left">
-<img src="https://nansencenter.github.io/icecastnet-website/assets/img/photo-cyril.jpeg" alt="Cyril Palerme"  width="200"/>
+<img src="https://nansencenter.github.io/icecastnet-website/assets/img/photo-cyril.png" alt="Cyril Palerme"  width="200"/>
 </p>
 
 [Cyril Palerme](https://www.linkedin.com/in/cyril-palerme-837a90346/?originalSubdomain=no) (Met Norway): Validation
